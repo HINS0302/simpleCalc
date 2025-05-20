@@ -18,6 +18,9 @@ def multiply(x, y):
 def divide (x,y):
     print x/y
     return x/y
+def divide (x,y):
+    print x+y
+    return x+y
 
 print("Calculator started.")
 
